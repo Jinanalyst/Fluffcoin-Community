@@ -1,0 +1,2 @@
+# Fluffcoin-Community
+Fluffcoin Community
