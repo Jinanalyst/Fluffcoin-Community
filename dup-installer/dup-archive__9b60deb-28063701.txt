@@ -1,0 +1,743 @@
+{
+    "dup_type": "lite",
+    "created": "2024-11-28 06:37:01",
+    "version_dup": "1.5.11.2",
+    "version_wp": "6.7.1",
+    "version_db": "10.11.10",
+    "version_php": "8.2.21",
+    "version_os": "Linux",
+    "blogname": "Fluffcoin Community",
+    "exportOnlyDB": 0,
+    "secure_on": 0,
+    "secure_pass": "$2a$08$K\/C9do7rR\/GsZIWb\/nHaauFkIKsSg\/Hn09TWw2R57obj6VwF9SoLi",
+    "dbhost": null,
+    "dbname": null,
+    "dbuser": null,
+    "cpnl_host": null,
+    "cpnl_user": null,
+    "cpnl_pass": null,
+    "cpnl_enable": null,
+    "wp_tableprefix": "wp_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "mu_siteadmins": [
+        "admin"
+    ],
+    "subsites": [
+        {
+            "id": 1,
+            "domain": "olive-ram-690287.hostingersite.com",
+            "path": "\/",
+            "blogname": "Fluffcoin Community",
+            "blog_prefix": "wp_",
+            "filteredTables": [],
+            "adminUsers": [
+                {
+                    "ID": "1",
+                    "user_login": "jangj6091@gmail.com",
+                    "id": "1"
+                }
+            ],
+            "fullHomeUrl": "https:\/\/olive-ram-690287.hostingersite.com",
+            "fullSiteUrl": "https:\/\/olive-ram-690287.hostingersite.com",
+            "uploadPath": "wp-content\/uploads",
+            "fullUploadPath": "\/home\/u928398955\/domains\/olive-ram-690287.hostingersite.com\/public_html\/wp-content\/uploads",
+            "fullUploadSafePath": "\/home\/u928398955\/domains\/olive-ram-690287.hostingersite.com\/public_html\/wp-content\/uploads",
+            "fullUploadUrl": "https:\/\/olive-ram-690287.hostingersite.com\/wp-content\/uploads",
+            "filteredPaths": []
+        }
+    ],
+    "main_site_id": 1,
+    "mu_is_filtered": false,
+    "license_limit": 0,
+    "license_type": 0,
+    "dbInfo": {
+        "buildMode": "PHP",
+        "charSetList": [
+            "utf8mb4"
+        ],
+        "collationList": [
+            "utf8mb4_unicode_520_ci",
+            "utf8mb4_unicode_ci"
+        ],
+        "engineList": [
+            "InnoDB"
+        ],
+        "isTablesUpperCase": 0,
+        "isNameUpperCase": 0,
+        "name": "u928398955_9413t",
+        "tablesBaseCount": 44,
+        "tablesFinalCount": 44,
+        "muFilteredTableCount": 0,
+        "tablesRowCount": 923,
+        "tablesSizeOnDisk": 6324224,
+        "tablesList": {
+            "wp_bp_activity": {
+                "inaccurateRows": 5,
+                "insertedRows": 5,
+                "size": 180224
+            },
+            "wp_bp_activity_meta": {
+                "inaccurateRows": 9,
+                "insertedRows": 9,
+                "size": 49152
+            },
+            "wp_bp_friends": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_bp_groups": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "wp_bp_groups_groupmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_bp_groups_members": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 114688
+            },
+            "wp_bp_invitations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 163840
+            },
+            "wp_bp_messages_messages": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_bp_messages_meta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_bp_messages_notices": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_bp_messages_recipients": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 98304
+            },
+            "wp_bp_notifications": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 131072
+            },
+            "wp_bp_notifications_meta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_bp_optouts": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "wp_bp_user_blogs": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 49152
+            },
+            "wp_bp_user_blogs_blogmeta": {
+                "inaccurateRows": 10,
+                "insertedRows": 10,
+                "size": 49152
+            },
+            "wp_bp_xprofile_data": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_bp_xprofile_fields": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 98304
+            },
+            "wp_bp_xprofile_groups": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "wp_bp_xprofile_meta": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 49152
+            },
+            "wp_commentmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_comments": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 98304
+            },
+            "wp_duplicator_packages": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "wp_e_events": {
+                "inaccurateRows": 6,
+                "insertedRows": 6,
+                "size": 32768
+            },
+            "wp_links": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_litespeed_url": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_litespeed_url_file": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 98304
+            },
+            "wp_options": {
+                "inaccurateRows": 493,
+                "insertedRows": 499,
+                "size": 3670016
+            },
+            "wp_postmeta": {
+                "inaccurateRows": 163,
+                "insertedRows": 163,
+                "size": 81920
+            },
+            "wp_posts": {
+                "inaccurateRows": 83,
+                "insertedRows": 83,
+                "size": 212992
+            },
+            "wp_signups": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wp_termmeta": {
+                "inaccurateRows": 24,
+                "insertedRows": 24,
+                "size": 49152
+            },
+            "wp_terms": {
+                "inaccurateRows": 30,
+                "insertedRows": 30,
+                "size": 49152
+            },
+            "wp_term_relationships": {
+                "inaccurateRows": 34,
+                "insertedRows": 34,
+                "size": 32768
+            },
+            "wp_term_taxonomy": {
+                "inaccurateRows": 30,
+                "insertedRows": 30,
+                "size": 49152
+            },
+            "wp_usermeta": {
+                "inaccurateRows": 29,
+                "insertedRows": 29,
+                "size": 49152
+            },
+            "wp_users": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 65536
+            },
+            "wp_youzify_activity_polls_votes": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_youzify_bookmarks": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_youzify_hashtags": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_youzify_hashtags_items": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_youzify_media": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_youzify_reviews": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_youzify_social_login_users": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            }
+        },
+        "lowerCaseTableNames": 0,
+        "dbEngine": "MariaDB",
+        "version": "10.11.10",
+        "versionComment": "MariaDB Server",
+        "viewCount": 0,
+        "procCount": 0,
+        "funcCount": 0,
+        "triggerList": []
+    },
+    "packInfo": {
+        "packageId": 1,
+        "packageName": "20241128_fluffcoincommunity",
+        "packageHash": "9b60deb-28063701",
+        "secondaryHash": "464c5e7-28063701"
+    },
+    "fileInfo": {
+        "dirCount": 1209,
+        "fileCount": 6767,
+        "size": 37125943
+    },
+    "wpInfo": {
+        "version": "6.7.1",
+        "is_multisite": false,
+        "network_id": 1,
+        "targetRoot": "\/home\/u928398955\/domains\/olive-ram-690287.hostingersite.com\/public_html",
+        "targetPaths": [
+            "\/home\/u928398955\/domains\/olive-ram-690287.hostingersite.com\/public_html"
+        ],
+        "adminUsers": [
+            {
+                "ID": "1",
+                "user_login": "jangj6091@gmail.com",
+                "id": "1"
+            }
+        ],
+        "configs": {
+            "defines": {
+                "ABSPATH": {
+                    "value": "\/home\/u928398955\/domains\/olive-ram-690287.hostingersite.com\/public_html\/",
+                    "inWpConfig": true
+                },
+                "DB_CHARSET": {
+                    "value": "utf8",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "value": "qU1HRThZ)W{jdpX>i`!EWU=AY7N6QqnF<Bg_dC<M..Rh!I*t+Dn7SK4!0D5~#X\/|",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "value": "c{SCUMuizqiP9&808WqP4t*Z#y9.>UqwiqvKZDd*TP>yM|VbX<r4]]61{$^Kd Kg",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "value": "UifHAY^cqG31yCeYxz0sq~*~kWS[+>;RP56EXk?u-xgEaHX }d?4gr!f?|lQ0Fg.",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "value": "P&nHW? a\/dI*mspml&SlBhD|kWR;X)(1F$:W*XE]iof#<4S(\/Q4 U*[ieYf&3OLz",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "value": "QLHpR|o.2S#H>x<sv[n Sw36-XVlvn=`$JnGF[[pEI1s%3p1`?E[rcE2B@r-1BV|",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "value": "f!}t|E}x~)`m7J<T7w{xnHjYm7TiXRCZcZvo;XkN>`H2oQF&xmdL`bxc`>wSHgCA",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "value": "rIAEe$PMLCs.q@+>3@x}^Z5LQock=P>ui{mLx70S3lB0>f>T;4|G`Dk9XWZLX3]?",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "value": ":FH-Y>Oaz2$4EQ^G]@eu67ajM+ra_:xA&d5o@C(Lydz$m[I-?-[U2%x]}_Dx[2OI",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "value": "\/home\/u928398955\/domains\/olive-ram-690287.hostingersite.com\/public_html\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "value": "https:\/\/olive-ram-690287.hostingersite.com\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "value": "\/home\/u928398955\/domains\/olive-ram-690287.hostingersite.com\/public_html\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "value": "https:\/\/olive-ram-690287.hostingersite.com\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "COOKIE_DOMAIN": {
+                    "value": "",
+                    "inWpConfig": false
+                },
+                "MULTISITE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_LOG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "value": "40M",
+                    "inWpConfig": false
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "value": "1536M",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "value": true,
+                    "inWpConfig": true
+                },
+                "WP_LANG_DIR": {
+                    "value": "\/home\/u928398955\/domains\/olive-ram-690287.hostingersite.com\/public_html\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "FS_METHOD": {
+                    "value": "direct",
+                    "inWpConfig": true
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "value": "\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "value": "\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "value": "\/home\/u928398955\/domains\/olive-ram-690287.hostingersite.com\/public_html\/wp-content\/themes\/buddyx",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "value": "\/home\/u928398955\/domains\/olive-ram-690287.hostingersite.com\/public_html\/wp-content\/themes\/buddyx",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "FORCE_SSL_ADMIN": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_AUTO_UPDATE_CORE": {
+                    "value": "minor",
+                    "inWpConfig": true
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "value": "\/home\/u928398955\/domains\/olive-ram-690287.hostingersite.com\/public_html\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "value": "https:\/\/olive-ram-690287.hostingersite.com\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "siteUrl": "https:\/\/olive-ram-690287.hostingersite.com",
+                "homeUrl": "https:\/\/olive-ram-690287.hostingersite.com",
+                "loginUrl": "https:\/\/olive-ram-690287.hostingersite.com\/wp-login.php",
+                "contentUrl": "https:\/\/olive-ram-690287.hostingersite.com\/wp-content",
+                "uploadBaseUrl": "https:\/\/olive-ram-690287.hostingersite.com\/wp-content\/uploads",
+                "pluginsUrl": "https:\/\/olive-ram-690287.hostingersite.com\/wp-content\/plugins",
+                "mupluginsUrl": "https:\/\/olive-ram-690287.hostingersite.com\/wp-content\/mu-plugins",
+                "themesUrl": "https:\/\/olive-ram-690287.hostingersite.com\/wp-content\/themes",
+                "originalPaths": {
+                    "home": "\/home\/u928398955\/domains\/olive-ram-690287.hostingersite.com\/public_html",
+                    "abs": "\/home\/u928398955\/domains\/olive-ram-690287.hostingersite.com\/public_html",
+                    "wpconfig": "\/home\/u928398955\/domains\/olive-ram-690287.hostingersite.com\/public_html",
+                    "wpcontent": "\/home\/u928398955\/domains\/olive-ram-690287.hostingersite.com\/public_html\/wp-content",
+                    "uploads": "\/home\/u928398955\/domains\/olive-ram-690287.hostingersite.com\/public_html\/wp-content\/uploads",
+                    "plugins": "\/home\/u928398955\/domains\/olive-ram-690287.hostingersite.com\/public_html\/wp-content\/plugins",
+                    "muplugins": "\/home\/u928398955\/domains\/olive-ram-690287.hostingersite.com\/public_html\/wp-content\/mu-plugins",
+                    "themes": "\/home\/u928398955\/domains\/olive-ram-690287.hostingersite.com\/public_html\/wp-content\/themes"
+                },
+                "archivePaths": {
+                    "home": "\/home\/u928398955\/domains\/olive-ram-690287.hostingersite.com\/public_html",
+                    "abs": "\/home\/u928398955\/domains\/olive-ram-690287.hostingersite.com\/public_html",
+                    "wpconfig": "\/home\/u928398955\/domains\/olive-ram-690287.hostingersite.com\/public_html",
+                    "wpcontent": "\/home\/u928398955\/domains\/olive-ram-690287.hostingersite.com\/public_html\/wp-content",
+                    "uploads": "\/home\/u928398955\/domains\/olive-ram-690287.hostingersite.com\/public_html\/wp-content\/uploads",
+                    "plugins": "\/home\/u928398955\/domains\/olive-ram-690287.hostingersite.com\/public_html\/wp-content\/plugins",
+                    "muplugins": "\/home\/u928398955\/domains\/olive-ram-690287.hostingersite.com\/public_html\/wp-content\/mu-plugins",
+                    "themes": "\/home\/u928398955\/domains\/olive-ram-690287.hostingersite.com\/public_html\/wp-content\/themes"
+                }
+            }
+        },
+        "plugins": {
+            "buddypress\/bp-loader.php": {
+                "slug": "buddypress\/bp-loader.php",
+                "name": "BuddyPress",
+                "version": "14.3.1",
+                "pluginURI": "https:\/\/buddypress.org",
+                "author": "The BuddyPress Community",
+                "authorURI": "https:\/\/buddypress.org",
+                "description": "BuddyPress adds community features to WordPress. Member Profiles, Activity Streams, Direct Messaging, Notifications, and more!",
+                "title": "BuddyPress",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "classic-widgets\/classic-widgets.php": {
+                "slug": "classic-widgets\/classic-widgets.php",
+                "name": "Classic Widgets",
+                "version": "0.3",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/classic-widgets\/",
+                "author": "WordPress Contributors",
+                "authorURI": "https:\/\/github.com\/WordPress\/classic-widgets\/",
+                "description": "Enables the classic widgets settings screens in Appearance - Widgets and the Customizer. Disables the block editor from managing widgets.",
+                "title": "Classic Widgets",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "duplicator\/duplicator.php": {
+                "slug": "duplicator\/duplicator.php",
+                "name": "Duplicator",
+                "version": "1.5.11.2",
+                "pluginURI": "https:\/\/duplicator.com\/",
+                "author": "Duplicator",
+                "authorURI": "https:\/\/duplicator.com\/",
+                "description": "Migrate and backup a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "hostinger-easy-onboarding\/hostinger-easy-onboarding.php": {
+                "slug": "hostinger-easy-onboarding\/hostinger-easy-onboarding.php",
+                "name": "Hostinger Easy Onboarding",
+                "version": "2.0.44",
+                "pluginURI": "https:\/\/hostinger.com",
+                "author": "Hostinger",
+                "authorURI": "https:\/\/www.hostinger.com",
+                "description": "Hostinger Easy Onboarding WordPress plugin.",
+                "title": "Hostinger Easy Onboarding",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "hostinger\/hostinger.php": {
+                "slug": "hostinger\/hostinger.php",
+                "name": "Hostinger Tools",
+                "version": "3.0.19",
+                "pluginURI": "https:\/\/hostinger.com",
+                "author": "Hostinger",
+                "authorURI": "https:\/\/www.hostinger.com",
+                "description": "Hostinger WordPress plugin.",
+                "title": "Hostinger Tools",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "kirki\/kirki.php": {
+                "slug": "kirki\/kirki.php",
+                "name": "Kirki Customizer Framework",
+                "version": "5.1.0",
+                "pluginURI": "https:\/\/themeum.com",
+                "author": "Themeum",
+                "authorURI": "https:\/\/themeum.com",
+                "description": "The Ultimate WordPress Customizer Framework",
+                "title": "Kirki Customizer Framework",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "litespeed-cache\/litespeed-cache.php": {
+                "slug": "litespeed-cache\/litespeed-cache.php",
+                "name": "LiteSpeed Cache",
+                "version": "6.5.2",
+                "pluginURI": "https:\/\/www.litespeedtech.com\/products\/cache-plugins\/wordpress-acceleration",
+                "author": "LiteSpeed Technologies",
+                "authorURI": "https:\/\/www.litespeedtech.com",
+                "description": "High-performance page caching and site optimization from LiteSpeed",
+                "title": "LiteSpeed Cache",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "hostinger-mu-plugin.php": {
+                "slug": "hostinger-mu-plugin.php",
+                "name": "Disable Auto Updates",
+                "version": "",
+                "pluginURI": "",
+                "author": "",
+                "authorURI": "",
+                "description": "Disables automatic theme, core, and plugin updates.",
+                "title": "Disable Auto Updates",
+                "networkActive": false,
+                "active": false,
+                "mustUse": true,
+                "dropIns": false
+            }
+        },
+        "themes": {
+            "buddyx": {
+                "slug": "buddyx",
+                "themeName": "BuddyX",
+                "version": "4.7.5",
+                "themeURI": "https:\/\/wbcomdesigns.com\/downloads\/buddyx-theme\/",
+                "parentTheme": false,
+                "template": "buddyx",
+                "stylesheet": "buddyx",
+                "description": "BuddyX is an ideal theme for community and membership websites. It provides a solution to all kinds of communities. Thanks to its BuddyPress support, your website can now have member profiles, send private messages, create groups, and more. It is a lightweight, fully responsive, SEO-optimised RTL and translation-ready theme. BuddyX supports WooCommerce, WC Vendors, LearnDash, LearnPress, and Gamipress plugins. It is highly customizable and works perfectly with page builders like Elementor and Gutenberg. BuddyX is perfect for creating social learning, marketplace, and blogging websites using BuddyPress integration. BuddyX uses the latest best practices for progressive web content and optimization. It is well-tested with the latest BuddyPress version and popular BuddyPress add-ons. Wbcom Designs is responsible for developing, maintaining, and supporting it.",
+                "author": "wbcomdesigns,vapvarun",
+                "authorURI": "https:\/\/github.com\/vapvarun\/buddyx",
+                "tags": [
+                    "one-column",
+                    "two-columns",
+                    "left-sidebar",
+                    "right-sidebar",
+                    "footer-widgets",
+                    "blog",
+                    "translation-ready",
+                    "buddypress",
+                    "custom-colors",
+                    "featured-images",
+                    "full-width-template",
+                    "theme-options",
+                    "e-commerce"
+                ],
+                "isAllowed": true,
+                "isActive": true,
+                "defaultTheme": false
+            },
+            "twentytwentythree": {
+                "slug": "twentytwentythree",
+                "themeName": "Twenty Twenty-Three",
+                "version": "1.6",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentythree",
+                "parentTheme": false,
+                "template": "twentytwentythree",
+                "stylesheet": "twentytwentythree",
+                "description": "Twenty Twenty-Three is designed to take advantage of the new design tools introduced in WordPress 6.1. With a clean, blank base as a starting point, this default theme includes ten diverse style variations created by members of the WordPress community. Whether you want to build a complex or incredibly simple website, you can do it quickly and intuitively through the bundled styles or dive into creation and full customization yourself.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "wide-blocks",
+                    "block-styles",
+                    "style-variations",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            }
+        }
+    },
+    "defaultStorageId": -1,
+    "components": [
+        "package_component_db",
+        "package_component_core",
+        "package_component_plugins",
+        "package_component_themes",
+        "package_component_uploads",
+        "package_component_other"
+    ],
+    "opts_delete": "[\"duplicator_ui_view_state\",\"duplicator_package_active\",\"duplicator_settings\",\"duplicator_is_pro_enable_notice_dismissed\"]",
+    "brand": {
+        "name": "Duplicator",
+        "isDefault": true,
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator",
+        "enabled": false,
+        "style": []
+    },
+    "overwriteInstallerParams": {
+        "blogname": {
+            "value": "Fluffcoin Community"
+        }
+    },
+    "installer_base_name": "installer.php.bak",
+    "installer_backup_name": "20241128_fluffcoincommunity_9b60deb9a8a16eb71728_20241128063701_installer-backup.php",
+    "package_name": "20241128_fluffcoincommunity_9b60deb9a8a16eb71728_20241128063701_archive.zip",
+    "package_hash": "9b60deb-28063701",
+    "package_notes": ""
+}
